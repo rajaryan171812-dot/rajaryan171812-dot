@@ -1,66 +1,54 @@
-# Hi, I'm Raj Aryan 👋
+ About Me
 
-## About Me
+ B.Tech CSE Student at IILM University
 
-🎓 B.Tech CSE Student at IILM University
+ Full Stack Developer
 
-💻 Aspiring Full Stack Developer
+Passionate about building scalable web applications using modern frontend and backend technologies.
 
-🌱 Currently Learning:
+ Technical Skills
+ Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Responsive Web Design
+
+ Backend
+- Node.js
+- Express.js
 - Java
-- Spring Boot
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
-## Technical Skills
-
-### Languages
-- Java
-- Python
-- SQL
-- JavaScript
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-
-### Backend
 - Spring Boot
 - REST APIs
 
-### Database
+Databases
+- MongoDB
 - MySQL
+- SQL
 
-### Tools
+ Tools & Technologies
 - Git
 - GitHub
-- IntelliJ IDEA
 - VS Code
+- IntelliJ IDEA
 - Maven
+- Postman
 
-## Featured Projects
+Full Stack Development
 
-### Portfolio Management Application
-Java | Spring Boot | MySQL
+Frontend:
+- React.js
+- HTML
+- CSS
+- JavaScript
 
-### Student Management System
-Java | Spring Boot | MySQL
+Backend:
+- Node.js
+- Express.js
+- Java
+- Spring Boot
+- REST APIs
 
-### Weather App
-HTML | CSS | JavaScript
-
-### To-Do App
-HTML | CSS | JavaScript
-
-## Education
-
-B.Tech Computer Science Engineering  
-IILM University, Greater Noida
-
-## Contact
-
-- GitHub: github.com/rajaryan171812-dot
-- LinkedIn: Add your LinkedIn profile
+Databases:
+- MongoDB
+- MySQL
