@@ -3,11 +3,11 @@
 
  Hi, I'm Raj Aryan 
 
-🎓 B.Tech CSE Student at IILM University
+B.Tech CSE Student at IILM University
 
-💻 Full Stack Developer
+Full Stack Developer
 
-🚀 React.js | Node.js | Express.js | Java | Spring Boot | MongoDB | MySQL
+ React.js | Node.js | Express.js | Java | Spring Boot | MongoDB | MySQL
 
  B.Tech CSE Student at IILM University
 
